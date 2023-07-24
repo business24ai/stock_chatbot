@@ -1,0 +1,9 @@
+python-dotenv
+jupyterlab
+pandas
+yfinance
+pygwalker
+openai
+lightweight-charts
+streamlit
+streamlit-lightweight-charts
